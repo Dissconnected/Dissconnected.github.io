@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9648,11 +9648,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Aan het uiteindelijke, definitieve ontwerp is enorm veel onderzoek voorafgegaan. De elementen die we bekomen zijn door ons vooronderzoek willen we op een krachtige wijze vertalen in een object. Qua vormgeving gingen we in de eerste plaats op zoek naar een geschikte compositie die de impact van sociale media en het begrip FOMO konden uitbeelden. We trachtten aan de hand van een krachtig beeld uit te drukken dat sociale media een last is die je de hele dag door meesleept. Hoe graag vele mensen ook zouden willen, ze geraken er niet vanaf.</p><p> \nSociale media wordt een drang en bijna niemand kan nog zonder. Het gevoel dat het een verplichting is om bereikbaar en up-to-date te zijn, blijft ons elke seconde van de dag achtervolgen. Het geeft een bedrukkend, beklijvend gevoel. Wij, mensen, zijn in de loop der jaren slaven geworden van sociale media. We kunnen niet meer zonder onze smartphones, tablets en computers. Wij vinden dat de tijd gekomen is om jongeren en jongvolwassenen (de frequentste gebruikers) met de neus op de feiten te drukken. Vele mensen beseffen niet wat dit onbewust met hen doet, daarom willen we dit onderwerp onder de mensen brengen. </p><p>\nDe last en het gewicht op onze schouders wouden we aanvankelijk visualiseren aan de hand van het begrip ‘slavernij’. We werkten enkele ontwerpen uit waarbij de druk op onze schouders uitgebeeld werd doormiddel van een abstracte ‘smartphone’. Daartegenover staat onze kwetsbare, fragiele persoonlijkheid die erg vatbaar is voor invloeden van sociale media. In een verdere fase van het ontwerpproces zijn we hier van afgestapt en trachtten we ons meer toe te spitsen op de lijdensweg die we ondergaan door middel van sociale media. Wanneer we verdergingen op het begrip ‘lijdensweg’ kwamen we al snel uit op de kruisweg van Jezus. We vonden het een interessante insteek om op verder te bouwen. Vanaf dit moment konden we zeggen dat ons project effectief vorm begon te krijgen. Ons uiteindelijke idee was het maken van een hedendaagse reproductie van de kruisweg waarbij het kruis vervangen wordt door een smartphone en Jezus en zijn gevolg vervangen worden door onszelf. Na het maken van verschillende fotoreeksen waarin we experimenteerden met opstellingen en kledij, kwamen we uiteindelijk tot het resultaat dat ons allemaal enorm intrigeerde. \n</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rcB0YUavZL",
+          "_anchor": "content1-2b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-2b"
+          "_params": {}
         }
       ]
     },

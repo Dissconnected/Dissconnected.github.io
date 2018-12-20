@@ -5666,13 +5666,16 @@ body {
   text-align: center;
 }
 .cid-rcNtrCHgYx {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rcNtrCHgYx .mbr-text,
 .cid-rcNtrCHgYx blockquote {
   color: #767676;
+}
+.cid-rcNtrCHgYx .mbr-text {
+  color: #000000;
 }
 .cid-rblPpwueef .navbar {
   background: #ffffff;
@@ -9450,7 +9453,7 @@ body {
   background: transparent !important;
 }
 .cid-rcdTzVZqXR .image_wrapper {
-  height: 650px;
+  height: 640px;
   width: 100%;
   position: relative;
   display: inline-block;

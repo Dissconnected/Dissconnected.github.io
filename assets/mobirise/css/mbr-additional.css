@@ -8728,16 +8728,24 @@ body {
 .cid-rblPpwueef .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rcB0YUavZL {
-  padding-top: 120px;
+.cid-rdscKv11H8 {
+  padding-top: 0px;
   padding-bottom: 120px;
   background-color: #ffffff;
 }
-.cid-rcB0YUavZL .mbr-text,
-.cid-rcB0YUavZL blockquote {
-  color: #767676;
+.cid-rdscKv11H8 .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #000000;
 }
-.cid-rcB0YUavZL .mbr-text P {
+.cid-rdscKv11H8 .mbr-author-name {
+  font-weight: bold;
+}
+.cid-rdscKv11H8 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-rdscKv11H8 .testimonial-text SPAN {
   color: #000000;
 }
 .cid-rblPpwueef .navbar {

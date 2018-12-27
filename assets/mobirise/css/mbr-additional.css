@@ -8728,26 +8728,6 @@ body {
 .cid-rblPpwueef .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rdscKv11H8 {
-  padding-top: 0px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
-}
-.cid-rdscKv11H8 .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-  color: #000000;
-}
-.cid-rdscKv11H8 .mbr-author-name {
-  font-weight: bold;
-}
-.cid-rdscKv11H8 .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-rdscKv11H8 .testimonial-text SPAN {
-  color: #000000;
-}
 .cid-rdsocsxoZO {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -8802,6 +8782,25 @@ body {
 }
 .cid-rdsqvNSojM .mbr-author-desc {
   color: #ffffff;
+}
+.cid-rdstaJZfem {
+  padding-top: 0px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-rdstaJZfem .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-rdstaJZfem .mbr-author-name {
+  font-weight: bold;
+}
+.cid-rdstaJZfem .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-rdstaJZfem .testimonial-text SPAN {
+  color: #000000;
 }
 .cid-rblPpwueef .navbar {
   background: #ffffff;

@@ -1382,6 +1382,18 @@ body {
     flex: auto!important;
   }
 }
+.cid-reooHitye0 {
+  background: #ffffff;
+}
+.cid-reooHitye0 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reooHitye0 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rblPpwueef .navbar {
   background: #ffffff;
   transition: none;

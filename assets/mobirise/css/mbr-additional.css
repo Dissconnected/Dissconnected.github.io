@@ -1799,6 +1799,18 @@ body {
 .cid-rds2UzCGRx .media-container-row .mbr-text {
   color: #000000;
 }
+.cid-reoqiAubH6 {
+  background: #ffffff;
+}
+.cid-reoqiAubH6 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reoqiAubH6 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rblPpwueef .navbar {
   background: #ffffff;
   transition: none;

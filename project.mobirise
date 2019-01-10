@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page17.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13372,7 +13372,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/statie1-565x473.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie1-1-565x473.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -13389,7 +13389,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie2-564x468.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie2-1-564x468.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13406,7 +13406,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie3-563x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie3-1-563x472.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13423,7 +13423,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie4-566x471.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie4-1-566x471.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13440,7 +13440,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie5-559x473.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie5-1-559x473.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13457,7 +13457,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie6-566x468.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie6-1-566x468.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13474,7 +13474,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie7-559x471.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie7-1-559x471.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13491,7 +13491,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie8-568x468.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie8-1-568x468.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13508,7 +13508,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie9-567x467.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie9-1-567x467.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13525,7 +13525,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie10-570x470.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie10-1-570x470.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13542,7 +13542,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie11-565x468.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie11-1-565x468.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -13559,7 +13559,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/statie12-563x469.jpg",
+                "image": "@PROJECT_PATH@/assets/images/statie12-1-563x469.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
